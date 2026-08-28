@@ -1,5 +1,9 @@
-# achopixel.github.io
+# achopixel.github.io — rama en-construccion
 
-Pagina principal de achopixel, publicada con GitHub Pages en https://achopixel.github.io
+Esta rama sirve UNICAMENTE la pagina de "en construccion".
+Es la rama seleccionada en Settings > Pages mientras la web real esta parada.
 
-Editar `index.html` y hacer push a `main`; Pages republica en 1-2 minutos.
+La web completa vive en `main` y no se ha tocado. Para volver a publicarla:
+Settings > Pages > Branch: main > Save.
+
+No mezclar esta rama con `main`.
